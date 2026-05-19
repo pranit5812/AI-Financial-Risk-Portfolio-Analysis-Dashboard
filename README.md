@@ -8,9 +8,7 @@ A comprehensive financial portfolio risk analysis and optimization platform buil
 - **RandomForestRegressor** risk modeling
 - Real-time **live prices** via WebSocket
 - **Portfolio stress testing**, **feature importance**, **Monte Carlo**, and **backtesting** insights
-
----
-
+-----
 ## 🚀 What this project does
 
 This project helps you:
